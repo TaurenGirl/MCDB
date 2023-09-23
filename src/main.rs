@@ -1,5 +1,6 @@
 mod xml_utilities;
 fn main() {
-    let test = xml_utilities::search("Cyclops".to_string(), "Name".to_string(), "./src/info.xml".to_string());
-    println!("{}", test);
+    let x = xml_utilities::populate("<Card>", "</Card>", "./src/info.xml".to_string());
+    let y: &xml_utilities::Card = &x.contents[0];
+    println!("{}", y.owner);
 }

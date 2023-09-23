@@ -1,3 +1,10 @@
-<Name=Cyclops>
+<Card>
+    <Name>Ready to Rumble</Name>
     <Aspect>Basic</Aspect>
-</Name>
+    <Owner>Shadowcat</Owner>
+</Card>
+<Card>
+    <Name>Sharpshooter</Name>
+    <Aspect>Basic</Aspect>
+    <Owner>Psylocke</Owner>
+</Card>
