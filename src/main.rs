@@ -1,6 +1,8 @@
-mod xml_utilities;
+mod utilities;
+mod cli_utilities;
 fn main() {
-    let x = xml_utilities::populate("<Card>", "</Card>", "./src/info.xml".to_string());
-    let y: &xml_utilities::Card = &x.contents[0];
+    let x = utilities::populate("<Card>", "</Card>", "./src/info.xml".to_string());
+    let y: &utilities::Card = &x.contents[0];
     println!("{}", y.owner);
+    cli_utilities::start();
 }
