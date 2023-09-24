@@ -1,0 +1,18 @@
+D:\MCDB\MCDB\target\debug\deps\terminfo-3b2885a6d0b4aa38.rmeta: C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\lib.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\error.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\mod.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\util.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\compiled.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\expansion.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\source.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\expand.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\capability.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\database.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\names.rs D:\MCDB\MCDB\target\debug\build\terminfo-ba4c5309795261ab\out/names.rs
+
+D:\MCDB\MCDB\target\debug\deps\terminfo-3b2885a6d0b4aa38.d: C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\lib.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\error.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\mod.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\util.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\compiled.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\expansion.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\source.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\expand.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\capability.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\database.rs C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\names.rs D:\MCDB\MCDB\target\debug\build\terminfo-ba4c5309795261ab\out/names.rs
+
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\lib.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\error.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\mod.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\util.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\compiled.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\expansion.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\parser\source.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\expand.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\capability.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\database.rs:
+C:\Users\skibi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\terminfo-0.8.0\src\names.rs:
+D:\MCDB\MCDB\target\debug\build\terminfo-ba4c5309795261ab\out/names.rs:
+
+# env-dep:OUT_DIR=D:\\MCDB\\MCDB\\target\\debug\\build\\terminfo-ba4c5309795261ab\\out
