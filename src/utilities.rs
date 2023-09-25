@@ -97,3 +97,4 @@ fn find(tag_start: &str, tag_end: &str, data: &str) -> String {
         return "Error getting data for ".to_string() + tag_start;
     }
 }
+

@@ -1,0 +1,1 @@
+/home/tomi/Documents/GitHub/MCDB/target/debug/mcdb: /home/tomi/Documents/GitHub/MCDB/src/cli_utilities.rs /home/tomi/Documents/GitHub/MCDB/src/main.rs /home/tomi/Documents/GitHub/MCDB/src/utilities.rs

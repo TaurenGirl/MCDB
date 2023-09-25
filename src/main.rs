@@ -1,5 +1,5 @@
-mod utilities;
-mod cli_utilities;
+pub mod utilities;
+pub mod cli_utilities;
 fn main() {
     let x = utilities::populate("<Card>", "</Card>", "./src/info.xml".to_string());
     let y: &utilities::Card = &x.contents[0];
